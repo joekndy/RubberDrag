@@ -1,6 +1,6 @@
 # RubberDrag
 
-A gesture that enables dragging on a view with a "rubberband" effect, similar to Apple's native scrollview or half sheet interaction.
+A gesture that enables dragging on a view with a "rubberband" effect. Similar to Apple's native scrollview or half sheet interaction.
 
 ![RubberDrag Demo](readme/demo.gif)
 
